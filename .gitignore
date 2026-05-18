@@ -1,0 +1,18 @@
+node_modules/
+.DS_Store
+*.swp
+*.swo
+*~
+.env
+
+# 大型二进制参考资料（原始素材）
+**/references/sources/books/*.pdf
+**/references/sources/transcripts/*.txt
+**/references/sources/转录结果/
+**/*.jpg
+**/*.JPG
+**/*.png
+**/*.PNG
+**/*.mp4
+**/*.mp3
+**/*.wav
